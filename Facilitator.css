@@ -1,0 +1,100 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.Content{
+    margin-top: 100px;
+    height:80vh;
+    flex-wrap: wrap;
+    background-image: url(./images/black3.jpg);
+    width:100%
+}
+.samuel{
+    height:200px;
+    width:200px;
+    display:flex;
+    border-radius:50%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.Face{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 7%;
+    align-items: center;
+}
+.text{
+    color: red;
+    font-size: xx-large;
+    display: flex;
+    margin-left: 10%;
+    justify-content: flex-start;
+}
+.text2{
+    color: white;
+    margin-left: 11%;
+    margin-top:-4%;
+    font-size: x-large;
+}
+.insta{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 7%;
+    align-items: center;   
+}
+.text3{
+    color: white;
+    margin-left: 11%;
+    margin-top:-2%;
+    font-size: x-large;
+}
+.twit{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 7%;
+    align-items: center;
+}
+.text4{
+    color: white;
+    margin-left: 11%;
+    margin-top:-2%;
+    font-size: x-large;
+}
+.git{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 7%;
+    align-items: center;
+}
+.text5{
+    color: white;
+    margin-left: 15%;
+    margin-top:-5%;
+    font-size: x-large;
+}
+.link{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 7%;
+    align-items: center;
+}
+.text6{
+    color: white;
+    margin-left: 15%;
+    margin-top:-5%;
+    font-size: x-large;
+}
+.all{
+    margin-left: 40%;
+    margin-top: -18%;
+}
